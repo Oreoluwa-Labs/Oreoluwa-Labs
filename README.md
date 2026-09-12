@@ -30,4 +30,4 @@ I love building project labs and learning by getting hands-on with different cyb
 
 📫 How to Reach Me
 LinkedIn: Add your LinkedIn profile here
-Email: Add your professional email address here
+Email: oreoluwasoares1@gmail.com
