@@ -5,7 +5,7 @@ I’m an aspiring **GRC Analyst** based in **Newton Abbot, United Kingdom**, wit
 ## 🔎 What I'm Currently Learning
 
 * **Governance, Risk and Compliance (GRC)**
-* **ISO 27001 / ISO 27002**
+* Compliance Frameworks **27001 / ISO 27002**
 * Cybersecurity fundamentals
 * Network security and analysis
 * Risk assessment and security controls
