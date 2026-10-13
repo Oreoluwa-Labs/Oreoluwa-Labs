@@ -34,7 +34,7 @@ I love **building project labs** and learning by getting hands-on with different
 
 ## 📫 How to Reach Me
 
-* **LinkedIn:** Add your LinkedIn profile here
+* **LinkedIn:** www.linkedin.com/in/oreoluwasoares
 * **Email:** oreoluwasoares1@gmail.com
 
 ---
