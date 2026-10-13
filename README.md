@@ -17,7 +17,7 @@ I’m an aspiring **GRC Analyst** based in **Newton Abbot, United Kingdom**, wit
 ## 🛠️ Skills & Tools
 
 * **GRC:** Risk assessment, security controls, governance and compliance
-* **Frameworks & Standards:** ISO 27001 / ISO 27002
+* **Frameworks & Standards:** ISO 27001 / ISO 27002, NIST CSF 2.0, PCI DSS, HIPAA
 * **Networking:** Cisco Packet Tracer
 * **Network Analysis:** Wireshark
 * **Cybersecurity:** Kali Linux
